@@ -6,6 +6,7 @@
 intentionally vuln web Application Security in django.
 our roadmap build intentionally vuln web Application in django. The Vulnerability can based on OWASP top ten
 <br>
+
 • A1:2017-Injection<br>
 • A2:2017-Broken Authentication<br>
 • A3:2017-Sensitive Data Exposure<br>
